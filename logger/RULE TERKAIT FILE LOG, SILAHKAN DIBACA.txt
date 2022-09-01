@@ -1,0 +1,15 @@
+JANGAN HAPUS root direktori berikut :
+{rootdir}/logger/
+{rootdir}/logger/LAST DATA/
+
+Yang boleh dihapus Hanya isi dari folder berikut
+-> {rootdir}/GAGAL GATE/[fileyangbolehdihapus],
+-> {rootdir}/SUCCESS GIN/[fileyangbolehdihapus],
+-> {rootdir}/SUCCESS GOUT/[fileyangbolehdihapus]
+
+
+Terimakasih atas perhatiannya, enjoy your day !!
+
+@PELINDO
+@ILCS
+Copyright 23-04-2022 11:06

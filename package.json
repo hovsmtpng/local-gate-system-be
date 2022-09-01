@@ -1,0 +1,25 @@
+{
+  "name": "gate-system-be",
+  "version": "1.0.0",
+  "description": "Engine for Gate Management System STID Pelindo",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "GateSystem",
+    "STID",
+    "Pelindo",
+    "IPC"
+  ],
+  "author": "@hovely Simatupang (082216601511) @Yogi Wahyudi (081233769006)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.15"
+  }
+}
